@@ -1,6 +1,6 @@
 import os
 
-version = "vr10_1"
+version = "vr10_3"
 outdir = '../output/{}/fair_{}/'
 
 scen_file_dir = f'../output/scens/{version}/'
